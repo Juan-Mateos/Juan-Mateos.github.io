@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+
+
 # About
 
 Hi, my name is Juan Mateos-Garcia.
