@@ -10,7 +10,7 @@ redirect_from:
 
 
 
-# About
+## About
 
 Hi, my name is Juan Mateos-Garcia.
 
@@ -22,7 +22,7 @@ You can find out more about the work of the team [here](https://www.nesta.org.uk
 
 This is my personal page, with information about my publications, presentations and blogs.
 
-# Research interests
+## Research interests
 
 I am interested in: 
 
@@ -31,7 +31,7 @@ I am interested in:
 * **Sciences of the Artificial**: The design of artificial systems (in particular AI) and their integration with human decision-making.
 * **Epistemology**: How knowledge is created and verified. Here, I am specially interested in questions of causality, interpretability and reproducibility
 
-# Other interests
+## Other interests
 
 Reading science-fiction, playing board-games, listening to ambient and minimal composition music, running.
 
