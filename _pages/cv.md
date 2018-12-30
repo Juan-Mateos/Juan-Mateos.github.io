@@ -11,30 +11,26 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Sc in Economics, Universidad de Salamanca, 1999
+* M.S. in Science and Technology Policy (with distinction), SPRU, University of Sussex
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* May 2018: Director of Innovation Mapping, Nesta
+* May 2016: Head of Innovation Mapping, Nesta
+* October 2008: Research Fellow, Nesta
+* September 2011: Research Fellow, University of Brighton
+* October 2001: Research officer, Univeristy of Sussex
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Research design
+* Programming
+  * Proficient in Python (data science toolkit) 
+  * R (Tidy toolkit)
+* Policy design and development
+  
 
 Publications
 ======
