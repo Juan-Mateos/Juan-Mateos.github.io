@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : juan-mateos
+title                    : Juan Mateos-Garcia
 title_separator          : "-"
 name                     : &name Juan Mateos-García
 description              : &description Director of Innovation Mapping at Nesta
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : Juan Mateos-Garcia
-  avatar           : "https://juan-mateos.github.io/juan_image.jpg"
+  avatar           : "juan_image.jpg"
   bio              : Director of Innovation Mapping at Nesta
   location         : London, UK
   employer         :
