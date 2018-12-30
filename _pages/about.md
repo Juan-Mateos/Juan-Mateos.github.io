@@ -14,13 +14,16 @@ redirect_from:
 
 Hi, my name is Juan Mateos-Garcia.
 
-I am Director of Innovation at [Nesta](http://www.nesta.org.uk"), the UK Innovation Foundation. There, I work in a team of data
+I am Director of Innovation at [Nesta](http://www.nesta.org.uk"), the UK Innovation Foundation. There, I lead a team of data
 scientists, data developers, visualisation designers and policy experts using
 new sources of data and data science methods to inform innovation policy. 
 
-You can find out more about the work of the team [here](https://www.nesta.org.uk/project/innovation-mapping/).
+You can find out more about our work [here](https://www.nesta.org.uk/project/innovation-mapping/).
 
-This is my personal page, with information about my publications, presentations and blogs.
+This is my personal page, with information about my publications, presentations and blogs. 
+
+Note that this is work in progress. I still need to add several papers, talks and policy work.
+
 
 ## Research interests
 
@@ -35,5 +38,8 @@ I am interested in:
 
 Reading science-fiction, playing board-games, listening to ambient and minimal composition music, running.
 
+## Credits
+
+This profile is based on the fantastic [Academic Pages](https://academicpages.github.io) template and scripts.
 
 
