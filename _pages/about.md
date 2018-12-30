@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Juan Mateos-García's personal page in GitHub"
+title: "Juan Mateos-García's personal page"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -10,13 +10,28 @@ redirect_from:
 
 # About
 
-Hi, I am Juan Mateos-Garcia, Director of Innovation Mapping at Nesta. 
+Hi, my name is Juan Mateos-Garcia.
 
-I lead a team that uses new data sources and data science methods to inform innovation policy.
+I am Director of Innovation at [Nesta](http://www.nesta.org.uk"), the UK Innovation Foundation. There, I work in a team of data
+scientists, data developers, visualisation designers and policy experts using
+new sources of data and data science methods to inform innovation policy. 
 
-I am an economist with a MSc in Science and Technology Policy and experience using computational methods such as machine learning and natural language processing.
+You can find out more about the work of the team [here](https://www.nesta.org.uk/project/innovation-mapping/).
+
+This is my personal page, with information about my publications, presentations and blogs.
 
 # Research interests
 
-* How new ideas (eg. emerging technologies) appear and evolve
-* How 
+I am interested in: 
+
+* **Emerging technologies**: How they appear and develop, and the determinants of their trajectory
+* **Innovation systems**: Their structure and evolution, and how to visualise them to inform policy
+* **Sciences of the Artificial**: The design of artificial systems (in particular AI) and their integration with human decision-making.
+* **Epistemology**: How knowledge is created and verified. Here, I am specially interested in questions of causality, interpretability and reproducibility
+
+# Other interests
+
+Reading science-fiction, playing board-games, listening to ambient and minimal composition music, running.
+
+
+
